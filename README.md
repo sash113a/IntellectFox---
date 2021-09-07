@@ -1,2 +1,7 @@
-# IntellectFox---
-Учебный проект IntellectFox
+# IntellectFox. Учебный проект - Марафон «Введение в Front-end разработку»
+## Проект выполнил: Маспанов Александр
+
+### Технологии
+- html
+- css
+- javascript
